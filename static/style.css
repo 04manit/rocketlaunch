@@ -1,0 +1,14 @@
+.logo{
+    width: 150px;
+    height: auto;
+}
+body{
+    background-image: url('bg5img.jpg');
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+h1{
+    color: #fff;
+}
